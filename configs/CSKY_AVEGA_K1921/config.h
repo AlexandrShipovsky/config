@@ -29,5 +29,8 @@
 #define PINIO1_PIN           PA9
 #define PINIO1_CONFIG PINIO_CONFIG_OUT_INVERTED
 
+#define LED0_PIN             PC0
+#define LED1_PIN             PC1
+
 #define SYSTEM_HSE_MHZ 8
 
